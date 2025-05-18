@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/tomazela-piscinas/static/css/main.2c838e4d.css",
-    "main.js": "/tomazela-piscinas/static/js/main.0246a8b4.js",
+    "main.css": "/tomazela-piscinas/static/css/main.dcbc3c43.css",
+    "main.js": "/tomazela-piscinas/static/js/main.70463a61.js",
     "static/js/453.431ffe98.chunk.js": "/tomazela-piscinas/static/js/453.431ffe98.chunk.js",
-    "static/media/penta10kg.png": "/tomazela-piscinas/static/media/penta10kg.21b9efb0235aed711adf.png",
+    "static/media/elevador.png": "/tomazela-piscinas/static/media/elevador.a927560682c8009cd0d5.png",
+    "static/media/limpeza.png": "/tomazela-piscinas/static/media/limpeza.54423b47954ef34805df.png",
+    "static/media/penta10kg.png": "/tomazela-piscinas/static/media/penta10kg.90f947323f751f9a7281.png",
+    "static/media/flutuador.png": "/tomazela-piscinas/static/media/flutuador.89fb3ef9373570deaf70.png",
+    "static/media/peneira.png": "/tomazela-piscinas/static/media/peneira.fb3aee836408edba737f.png",
+    "static/media/algecidamanutencao.png": "/tomazela-piscinas/static/media/algecidamanutencao.acf111f7c50b67675eb7.png",
+    "static/media/escova.png": "/tomazela-piscinas/static/media/escova.0c73c9765baf35c4e980.png",
+    "static/media/clarificante.png": "/tomazela-piscinas/static/media/clarificante.79f6f43debe00961c1d4.png",
+    "static/media/cabo.png": "/tomazela-piscinas/static/media/cabo.176cb2e0e0993bf1431b.png",
+    "static/media/logo.png": "/tomazela-piscinas/static/media/logo.aa4d2c1cb644eadeb1d7.png",
     "index.html": "/tomazela-piscinas/index.html",
-    "main.2c838e4d.css.map": "/tomazela-piscinas/static/css/main.2c838e4d.css.map",
-    "main.0246a8b4.js.map": "/tomazela-piscinas/static/js/main.0246a8b4.js.map",
+    "main.dcbc3c43.css.map": "/tomazela-piscinas/static/css/main.dcbc3c43.css.map",
+    "main.70463a61.js.map": "/tomazela-piscinas/static/js/main.70463a61.js.map",
     "453.431ffe98.chunk.js.map": "/tomazela-piscinas/static/js/453.431ffe98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c838e4d.css",
-    "static/js/main.0246a8b4.js"
+    "static/css/main.dcbc3c43.css",
+    "static/js/main.70463a61.js"
   ]
 }
