@@ -23,37 +23,7 @@ function App() {
 
   // Produtos disponíveis
   const produtos = [
-    {
-      id: 1,
-      categoria: 'Piscinas',
-      itens: [
-        { id: 101, nome: 'Piscina de Fibra 6x3m', preco: 18500, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 102, nome: 'Piscina de Vinil 5x2.5m', preco: 12800, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 103, nome: 'Piscina Inflável Familiar', preco: 1200, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 104, nome: 'Piscina de Alvenaria 8x4m', preco: 28000, imagem: 'https://via.placeholder.com/300x200' }
-      ]
-    },
-    {
-      id: 2,
-      categoria: 'Equipamentos',
-      itens: [
-        { id: 201, nome: 'Filtro para Piscina 50m³', preco: 1850, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 202, nome: 'Bomba 1/2 CV', preco: 980, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 203, nome: 'Sistema de Aquecimento Solar', preco: 3500, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 204, nome: 'Clorador Automático', preco: 620, imagem: 'https://via.placeholder.com/300x200' }
-      ]
-    },
-    {
-      id: 3,
-      categoria: 'Acessórios',
-      itens: [
-        { id: 301, nome: 'Kit Limpeza Completo', preco: 350, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 302, nome: 'Escada em Aço Inox', preco: 890, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 303, nome: 'Capa Térmica 6x3m', preco: 580, imagem: 'https://via.placeholder.com/300x200' },
-        { id: 304, nome: 'Iluminação LED RGB', preco: 720, imagem: 'https://via.placeholder.com/300x200' }
-      ]
-    },
-    {
+
       id: 4,
       categoria: 'Produtos Químicos',
       itens: [
