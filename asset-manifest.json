@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tomazela-piscinas/static/css/main.2c838e4d.css",
-    "main.js": "/tomazela-piscinas/static/js/main.972a95ca.js",
+    "main.js": "/tomazela-piscinas/static/js/main.0246a8b4.js",
     "static/js/453.431ffe98.chunk.js": "/tomazela-piscinas/static/js/453.431ffe98.chunk.js",
     "static/media/penta10kg.png": "/tomazela-piscinas/static/media/penta10kg.21b9efb0235aed711adf.png",
     "index.html": "/tomazela-piscinas/index.html",
     "main.2c838e4d.css.map": "/tomazela-piscinas/static/css/main.2c838e4d.css.map",
-    "main.972a95ca.js.map": "/tomazela-piscinas/static/js/main.972a95ca.js.map",
+    "main.0246a8b4.js.map": "/tomazela-piscinas/static/js/main.0246a8b4.js.map",
     "453.431ffe98.chunk.js.map": "/tomazela-piscinas/static/js/453.431ffe98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c838e4d.css",
-    "static/js/main.972a95ca.js"
+    "static/js/main.0246a8b4.js"
   ]
 }
