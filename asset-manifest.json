@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/tomazela-piscinas/static/css/main.d343a0a0.css",
-    "main.js": "/tomazela-piscinas/static/js/main.111c662b.js",
-    "static/js/453.431ffe98.chunk.js": "/tomazela-piscinas/static/js/453.431ffe98.chunk.js",
-    "static/media/elevador.png": "/tomazela-piscinas/static/media/elevador.a927560682c8009cd0d5.png",
-    "static/media/limpeza.png": "/tomazela-piscinas/static/media/limpeza.54423b47954ef34805df.png",
-    "static/media/penta10kg.png": "/tomazela-piscinas/static/media/penta10kg.90f947323f751f9a7281.png",
-    "static/media/flutuador.png": "/tomazela-piscinas/static/media/flutuador.89fb3ef9373570deaf70.png",
-    "static/media/peneira.png": "/tomazela-piscinas/static/media/peneira.fb3aee836408edba737f.png",
-    "static/media/algecidamanutencao.png": "/tomazela-piscinas/static/media/algecidamanutencao.acf111f7c50b67675eb7.png",
-    "static/media/estojo.png": "/tomazela-piscinas/static/media/estojo.752bfed795f6631d9b34.png",
-    "static/media/escova.png": "/tomazela-piscinas/static/media/escova.0c73c9765baf35c4e980.png",
-    "static/media/pastilha.png": "/tomazela-piscinas/static/media/pastilha.eb53349a1bd7a8f788c8.png",
-    "static/media/sulfato.png": "/tomazela-piscinas/static/media/sulfato.0b778d14b1f35a77fbca.png",
-    "static/media/clarificante.png": "/tomazela-piscinas/static/media/clarificante.79f6f43debe00961c1d4.png",
-    "static/media/cabo.png": "/tomazela-piscinas/static/media/cabo.176cb2e0e0993bf1431b.png",
-    "static/media/algecidachoque.png": "/tomazela-piscinas/static/media/algecidachoque.a0a164dd6f7051309329.png",
-    "static/media/logo.png": "/tomazela-piscinas/static/media/logo.aa4d2c1cb644eadeb1d7.png",
-    "index.html": "/tomazela-piscinas/index.html",
-    "main.d343a0a0.css.map": "/tomazela-piscinas/static/css/main.d343a0a0.css.map",
-    "main.111c662b.js.map": "/tomazela-piscinas/static/js/main.111c662b.js.map",
-    "453.431ffe98.chunk.js.map": "/tomazela-piscinas/static/js/453.431ffe98.chunk.js.map"
+    "main.css": "/static/css/main.d343a0a0.css",
+    "main.js": "/static/js/main.9d5b82d7.js",
+    "static/js/453.431ffe98.chunk.js": "/static/js/453.431ffe98.chunk.js",
+    "static/media/elevador.png": "/static/media/elevador.a927560682c8009cd0d5.png",
+    "static/media/limpeza.png": "/static/media/limpeza.54423b47954ef34805df.png",
+    "static/media/penta10kg.png": "/static/media/penta10kg.90f947323f751f9a7281.png",
+    "static/media/flutuador.png": "/static/media/flutuador.89fb3ef9373570deaf70.png",
+    "static/media/peneira.png": "/static/media/peneira.fb3aee836408edba737f.png",
+    "static/media/algecidamanutencao.png": "/static/media/algecidamanutencao.acf111f7c50b67675eb7.png",
+    "static/media/estojo.png": "/static/media/estojo.752bfed795f6631d9b34.png",
+    "static/media/escova.png": "/static/media/escova.0c73c9765baf35c4e980.png",
+    "static/media/pastilha.png": "/static/media/pastilha.eb53349a1bd7a8f788c8.png",
+    "static/media/sulfato.png": "/static/media/sulfato.0b778d14b1f35a77fbca.png",
+    "static/media/clarificante.png": "/static/media/clarificante.79f6f43debe00961c1d4.png",
+    "static/media/cabo.png": "/static/media/cabo.176cb2e0e0993bf1431b.png",
+    "static/media/algecidachoque.png": "/static/media/algecidachoque.a0a164dd6f7051309329.png",
+    "static/media/logo.png": "/static/media/logo.aa4d2c1cb644eadeb1d7.png",
+    "index.html": "/index.html",
+    "main.d343a0a0.css.map": "/static/css/main.d343a0a0.css.map",
+    "main.9d5b82d7.js.map": "/static/js/main.9d5b82d7.js.map",
+    "453.431ffe98.chunk.js.map": "/static/js/453.431ffe98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d343a0a0.css",
-    "static/js/main.111c662b.js"
+    "static/js/main.9d5b82d7.js"
   ]
 }
