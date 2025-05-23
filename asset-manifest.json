@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.d343a0a0.css",
-    "main.js": "/static/js/main.9d5b82d7.js",
+    "main.js": "/static/js/main.3fdabfc6.js",
     "static/js/453.431ffe98.chunk.js": "/static/js/453.431ffe98.chunk.js",
+    "static/media/analise.png": "/static/media/analise.7acfe5d5da6a0905cdfe.png",
+    "static/media/trocaAreia.jpg": "/static/media/trocaAreia.6cb97bcd56516708055a.jpg",
     "static/media/elevador.png": "/static/media/elevador.a927560682c8009cd0d5.png",
+    "static/media/reparoBomba.png": "/static/media/reparoBomba.57c4c12bd3ae37f232e9.png",
     "static/media/limpeza.png": "/static/media/limpeza.54423b47954ef34805df.png",
     "static/media/penta10kg.png": "/static/media/penta10kg.90f947323f751f9a7281.png",
     "static/media/flutuador.png": "/static/media/flutuador.89fb3ef9373570deaf70.png",
@@ -19,11 +22,11 @@
     "static/media/logo.png": "/static/media/logo.aa4d2c1cb644eadeb1d7.png",
     "index.html": "/index.html",
     "main.d343a0a0.css.map": "/static/css/main.d343a0a0.css.map",
-    "main.9d5b82d7.js.map": "/static/js/main.9d5b82d7.js.map",
+    "main.3fdabfc6.js.map": "/static/js/main.3fdabfc6.js.map",
     "453.431ffe98.chunk.js.map": "/static/js/453.431ffe98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d343a0a0.css",
-    "static/js/main.9d5b82d7.js"
+    "static/js/main.3fdabfc6.js"
   ]
 }
